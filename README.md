@@ -15,4 +15,6 @@ My name is Yogesh, and I'm a Front-End Developer from IIT Roorkee, India.
 
 ### I Code With
 
-<!-- You can add icons or badges here to represent your skills -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
