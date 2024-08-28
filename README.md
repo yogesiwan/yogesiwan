@@ -1,16 +1,20 @@
-## Hi there 👋
+
 
 <!--
 **yogesiwan/yogesiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey 👋  What's up?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Yogesh and I'm a Front-End developer, from  IIT Roorkee, India.
+
+About me
+
+✨ Creating bugs since 2021
+📚 I'm currently learning Langchain  and docker 🐳
+🎯 Goals 2024: Learn Ruby on Rails 🚀
+🎲 And ... I Like to watch Anime 🎸
+I code with
+
+I code with
+
+My Skills
