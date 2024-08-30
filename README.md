@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yogesiwan@gmail.com**
 
-- 📄 Know about my experiences [https://yogesiwan.github.io/My_Portfolio/](https://yogesiwan.github.io/My_Portfolio/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ca_rqCukto1rL56kKiZzMc0ibDNOAwlJ/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
